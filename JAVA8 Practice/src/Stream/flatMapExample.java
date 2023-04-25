@@ -14,7 +14,10 @@ public class flatMapExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(printactivities());
+//		System.out.println(printactivities());
+		int i=10;
+		int j=10;
+		System.out.println(i==j);
 
 	}
 
